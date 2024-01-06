@@ -5,18 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Animal Planet</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          discover world
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+      <img src='https://cloudfront.safaribookings.com/blog/2022/10/00-5_Fascinating_Facts_About_the_Leopard-BW-header1200px.jpg'></img>
       </header>
     </div>
   );
